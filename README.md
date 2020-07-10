@@ -11,7 +11,7 @@ Latency to arousal was determined by EMG variance
 
 % Demonstration of EMG variance distribution between vigilance states
 
-Fig S1B
+	Fig S1B
 	
 	extract_features_from_opto_evoked_arousals.m
   	see also 
@@ -19,19 +19,22 @@ Fig S1B
   
 % Latency to Arousal (Awakening delay)
 
-Fig 1H & Fig S1C, LPO vs nonLPO (NREM vs REM)
+	Fig 1H & Fig S1C, LPO vs nonLPO (NREM vs REM)
 	
 	LPOvsnonLPO_fig1.m
 
-Fig 2D: HSP vs LSP
+	
+	Fig 2D: HSP vs LSP
 	
 	highLowSleepPressureTArousal_fig2.m
 
-Fig S3F: Dex sedation
+	
+	Fig S3F: Dex sedation
 	
 	sedationTArousal_fig2.m
 
-Fig 5A: 1,2,5,10,20Hz,sham
+	
+	Fig 5A: 1,2,5,10,20Hz,sham
 	
 	compare1nevs5vs10Hz_V5.m
 
