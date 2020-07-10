@@ -2,14 +2,14 @@
 Code generated for Yamagata et al., 2020 titled 'The role of the hypothalamus in cortical arousal and sleep homeostasis'
 
 
-%% Latency to arousal was determined by EMG variance 
+Latency to arousal was determined by EMG variance 
 
-%% Calculate EMG variance in each animals
+% Calculate EMG variance in each animals
 
 	EMGVariance_v8_allfigs.m
 
 
-%% Demonstration of EMG variance distribution between vigilance states
+% Demonstration of EMG variance distribution between vigilance states
 
 Fig S1B
 	
@@ -17,7 +17,7 @@ Fig S1B
   	see also 
   	compareEMGVar_SpontaneousVsStimV8_forFun_PCAonSpectra.m
   
-%% Latency to Arousal (Awakening delay)
+% Latency to Arousal (Awakening delay)
 
 Fig 1H & Fig S1C, LPO vs nonLPO (NREM vs REM)
 	
