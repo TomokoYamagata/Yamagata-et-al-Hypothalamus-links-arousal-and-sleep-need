@@ -13,7 +13,7 @@ Code generated for Yamagata et al., 2020 titled 'The role of the hypothalamus in
 
 Fig S1B
 	
-	extract_features_from_opto_evoked_arousals 
+	extract_features_from_opto_evoked_arousals.m
   	see also 
   	compareEMGVar_SpontaneousVsStimV8_forFun_PCAonSpectra.m
   
