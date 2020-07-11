@@ -18,8 +18,6 @@ SWAeffectSD.m
 
 4.
 MeanSpectraEffectSD.m    
-    sub
-    MeanSpectraEffectSD_vsBaseline.m    
 
 5.
 Statistics
