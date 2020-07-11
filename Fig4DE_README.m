@@ -1,5 +1,5 @@
 
-WakeEnhancement
+Figure 4D, 4E: WakeEnhancement
 % 
 
 1.
